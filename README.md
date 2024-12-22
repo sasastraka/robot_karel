@@ -28,5 +28,5 @@ Pro spuštění jsem použil server přímo ve VSC v terminálu pomocí "php -S 
 
 ## Technologie
 - **PHP**: Pro serverovou logiku a zpracování herního stavu.
-- **HTML/CSS**: Pro zobrazení herního pole a ovládání aplikace.
+- **HTML/CSS**: Pro zobrazení herního pole a ovládání aplikace/Design webu.
 
