@@ -5,7 +5,7 @@ Tato aplikace simuluje jednoduchého robota Karla, který se pohybuje po 2D hern
 ## Funkce
 - **Pohyb**: Karel se pohybuje po herním poli na základě zadaných příkazů (např. `KROK 3`).
 - **Otáčení**: Karel se otočí doleva podle zadaného počtu (např. `VLEVOBOK 1`).
-- **Pokládání písmen**: Karel může na své aktuální pozici umístit písmena (např. `POLOZ A`).
+- **Pokládání písmen**: Karel může na své aktuální pozici umístit písmena i čísla (např. `POLOZ A`).
 - **Resetování**: Hru lze resetovat příkazem `RESET`.
 
 ## Příkazy
