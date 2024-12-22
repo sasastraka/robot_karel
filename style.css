@@ -1,0 +1,94 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #1e3c72, #2a5298); 
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+#grid-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border-spacing: 0;
+    border: 2px solid #fff;
+    margin: auto;
+}
+
+td {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.5rem;
+    border: 1px solid #fff;
+}
+
+td.karel {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+td.cell {
+    background-color: #2a5298;
+    color: white;
+}
+
+form {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-right: 10px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    width: 300px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    background-color: #ffdd57;
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #ffbb33;
+}
+
+form button[type="submit"] {
+    font-size: 1.3rem;
+    padding: 12px 25px;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
