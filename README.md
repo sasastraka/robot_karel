@@ -1,6 +1,6 @@
 # Robot Karel 
 
-Tato aplikace simuluje jednoduchého robota Karla, který se pohybuje po 2D herním poli a vykonává různé příkazy, jako je pohyb, otáčení a pokládání písmen. Aplikace je vytvořena pomocí HTML, CSS, PHP a využívá session pro uchování herního stavu.
+Tato aplikace simuluje jednoduchého robota Karla, který se pohybuje po 2D herním poli a vykonává různé příkazy, jako je pohyb, otáčení a pokládání písmen a čísel. Aplikace je vytvořena pomocí HTML, CSS, PHP a využívá session pro uchování herního stavu.
 
 ## Funkce
 - **Pohyb**: Karel se pohybuje po herním poli na základě zadaných příkazů (např. `KROK 3`).
